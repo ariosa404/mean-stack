@@ -20,27 +20,27 @@
 In this course we will use the MEAN Stack (Solution stack) for creating a full stack Angular application.
 
 These notes refer to this guide
-[Udemy: Angular & NodeJS - The MEAN Stack Guide [2020 Edition]](https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/learn)
+- [Udemy: Angular & NodeJS - The MEAN Stack Guide [2020 Edition]](https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/learn)
 
 Some useful links
-[Wikipedia: MEAN (solution stack)](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
-[IBM: MEAN Stack](https://www.ibm.com/cloud/learn/mean-stack-explained)
+- [Wikipedia: MEAN (solution stack)](https://en.wikipedia.org/wiki/MEAN_(software_bundle))
+- [IBM: MEAN Stack](https://www.ibm.com/cloud/learn/mean-stack-explained)
 
-[Wikipedia: MongoDB](https://en.wikipedia.org/wiki/MongoDB)
-[MongoDB: Docs](https://docs.mongodb.com)
-[Mongoose: Docs](https://mongoosejs.com/docs/guide.html)
+- [Wikipedia: MongoDB](https://en.wikipedia.org/wiki/MongoDB)
+- [MongoDB: Docs](https://docs.mongodb.com)
+- [Mongoose: Docs](https://mongoosejs.com/docs/guide.html)
 
-[Wikipedia: Express.js](https://en.wikipedia.org/wiki/Express.js)
-[Express.js: Docs](https://expressjs.com)
-[Mozilla: Express.js](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-[TutorialsPoint: Express.js](https://www.tutorialspoint.com/expressjs)
-[FreeCodeCamp: Express.js](https://guide.freecodecamp.org/nodejs/express)
+- [Wikipedia: Express.js](https://en.wikipedia.org/wiki/Express.js)
+- [Express.js: Docs](https://expressjs.com)
+- [Mozilla: Express.js](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+- [TutorialsPoint: Express.js](https://www.tutorialspoint.com/expressjs)
+- [FreeCodeCamp: Express.js](https://guide.freecodecamp.org/nodejs/express)
 
-[Wikipedia: Angular (web framework)](https://en.wikipedia.org/wiki/Angular_(web_framework))
-[Angular: Docs](https://angular.io/docs)
+- [Wikipedia: Angular (web framework)](https://en.wikipedia.org/wiki/Angular_(web_framework))
+- [Angular: Docs](https://angular.io/docs)
 
-[Wikipedia: Node.js](https://en.wikipedia.org/wiki/Node.js)
-[Node.js: Docs](https://nodejs.org/en/docs)
+- [Wikipedia: Node.js](https://en.wikipedia.org/wiki/Node.js)
+- [Node.js: Docs](https://nodejs.org/en/docs)
 
 ### 2. What is MEAN?
 **MongoDB:** A NoSQL Database which stores "Documents" in "Collections" (instead of "Records" in "Tables" as in SQL).
