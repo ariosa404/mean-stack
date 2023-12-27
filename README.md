@@ -1,4 +1,4 @@
-# [The MEAN Stack Guide](https://github.com/Weping/mean-stack/blob/main/The-MEAN-Stack-Guide.md)
+# [The MEAN Stack Guide](The-MEAN-Stack-Guide.md)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
 
